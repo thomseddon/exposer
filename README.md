@@ -1,5 +1,5 @@
 
-# Exposer
+# Exposer [![Build Status](https://travis-ci.org/thomseddon/exposer.svg?branch=master)](https://travis-ci.org/thomseddon/exposer)
 
 Export all sibling files in an object.
 It's teeny tiny but I use it in almost every project.
